@@ -28,6 +28,8 @@
   - Network Protocol Analyzer -> Herramientas diseñadas para la captura y análisis del trafico [tcp-dump, Wireshark]
   - Linux System Operation -> Linux es un so de codigo abierto o adquirible públicamente.
   - Programming Lenguajes -> Creación de un conjunto especifico de instrucciones para que una computadora ejecute tareas.
-- Programming languages a Cybersecurity =
+- Programming languages a Cybersecurity =>
   - SQL ->
   - Python ->
+
+# --------------------------------------------------------------------------------------------------------------------------------
