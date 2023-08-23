@@ -33,3 +33,32 @@
   - Python ->
 
 # --------------------------------------------------------------------------------------------------------------------------------
+
+#### Manage Security Risks
+
+- CISSP security domains.
+  - Seguridad y Gestión de riesgos, Seguridad de activos, Seguridad en arquitectura e Ingeniería, Comunicación y seguridad en redes.
+  - Administración de acceso e identidad, Evaluación y pruebas de seguridad, Operaciones de seguridad, Seguridad de desarrollo software.
+- Threats, risks, and vulnerabilities.
+  - Amenzas =>
+  - Riesgos => El riesgo es cualquier cosa que pueda afecta la confidencialidad, integridad o disponibilidad de un activo. El riesgo de clasifica en 3 niveles.
+  - Vulnerabilidad =>
+  - _Impactos claves de los mismos =>_
+- Framework and Controls.
+  - Frameworks =>
+  - Security Controls =>
+  - Design principles =>
+  - Security audits =>
+- The CIA triad => CIA es un modelo que ayuda a informar como las organizaciones consideran el riesgo al configurar sistemas y políticas de seguridad.
+  - Confidentiality ->
+  - Integrity ->
+  - Availability ->
+- NIST CSF => 5 funciones principales
+  - _identificar, proteger, detectar, responder, recuperar_
+- OWASP principles and security audits.
+- Security information and event management (SIEM) dashboards.
+- Security information and event management (SIEM) tools.
+- Phases of Incident response playbooks
+- Incident response
+
+# --------------------------------------------------------------------------------------------------------------------------------
