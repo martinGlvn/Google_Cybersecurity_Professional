@@ -55,8 +55,16 @@
   - Availability ->
 - NIST CSF => 5 funciones principales
   - _identificar, proteger, detectar, responder, recuperar_
-- OWASP principles and security audits.
+- OWASP principles and security audits => Principios y directrices utilizados con NIST & CIA
+  - _Minimizar la superficie del ataque_
+  - _Principio de menor privilegio_
+  - _Defensa en profundidad_
+  - _Separación de funciones_
+  - _Mantener la seguridad Simple_
+  - _Solucionar los problemas de seguridad correctamente_
+  - [Todos estos principios funcionan en conjunto realizando "AUDITORIAS DE SEGURIDAD" ->] 6 principios fundamentales para una auditoria de seguridad ->
 - Security information and event management (SIEM) dashboards.
+  - _Tipos de riesgos ->_ Logs, SIEM dashboards, Common SIEM tools.
 - Security information and event management (SIEM) tools.
 - Phases of Incident response playbooks
 - Incident response
