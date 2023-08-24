@@ -104,10 +104,22 @@
   - _Network segmention_
   - _Security zone_
   - _Proxy server_
-- Secure networks against Denial of Service (DoS) attacks
-- Network attack tactics and defense
-- OS hardening
-- Network hardening
-- Cloud hardening
+- Secure networks against Denial of Service (DoS) attacks ->
+  - ...
+- Network attack tactics and defense ->
+  - _Passive packet sniffing_
+  - _IP Spoofing_
+- OS hardening ->
+  - _Patch update_
+  - _Baseline Configuration_
+  - _MFA_
+- Network hardening ->
+  - _Port filtering_
+  - _Network access privilege_
+  - _Network log analysis_
+  - _SIEM_
+  -
+- Cloud hardening ->
+  - _Cloud Network_
 
 # --------------------------------------------------------------------------------------------------------------------------------
