@@ -70,7 +70,10 @@
   - _Cloud Hosted_
   - _Hybrid_
 - Phases of Incident response playbooks
--
+  - _Playbooks_
+  - _6 fases de respuesta ante incidentes_
+  -
 - Incident response
+  - ...
 
 # --------------------------------------------------------------------------------------------------------------------------------
