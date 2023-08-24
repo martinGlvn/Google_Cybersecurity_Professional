@@ -77,3 +77,37 @@
   - ...
 
 # --------------------------------------------------------------------------------------------------------------------------------
+
+#### Internet Networks & Network Security
+
+- Fundamentals => _Network, LAN, Hub, Virtualization tools, Conmutador, Cloud Computing_
+  - ...
+- Network communication ->
+  - _Data packet_
+  - _Packet sniffing_
+  - _TCP/IP_ -> _Layers TCP/IP_
+  - _Port_
+- Local and wide network communication ->
+  - _ip_ -> _ipv4_ -> _ipv6_
+  - _Mac address_
+- Introduction to network protocols -> Los protocolos de red son un conjunto de reglas utilizadas por 2 o mas dispositivos de una red.
+  - _ARP, TPC, https, DNS_
+  - _Security Protocols_ -> https, SSL/TLS
+  - _VPNs_
+  - _Firewalls, security zones, proxy servers_ -> WPA
+- System identification ->
+  - _Firewall_
+  - _Port filtering_
+  - _NGFWs_
+  - _Encapsulation_
+- network intrusion tactics ->
+  - _Network segmention_
+  - _Security zone_
+  - _Proxy server_
+- Secure networks against Denial of Service (DoS) attacks
+- Network attack tactics and defense
+- OS hardening
+- Network hardening
+- Cloud hardening
+
+# --------------------------------------------------------------------------------------------------------------------------------
