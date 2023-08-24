@@ -66,7 +66,11 @@
 - Security information and event management (SIEM) dashboards.
   - _Tipos de riesgos ->_ Logs, SIEM dashboards, Common SIEM tools.
 - Security information and event management (SIEM) tools.
+  - _Self-hosted_
+  - _Cloud Hosted_
+  - _Hybrid_
 - Phases of Incident response playbooks
+-
 - Incident response
 
 # --------------------------------------------------------------------------------------------------------------------------------
